@@ -10,9 +10,9 @@ Then the modular file has a function to do calculation from the image that retri
 
 The explanation of each attribute can be read here:
 
-cv2.threshold    : https://www.geeksforgeeks.org/find-and-draw-contours-using-opencv-python/#:~:text=We%20see%20that%20there%20are,the%20contours%20in%20the%20image.
-cv2.GaussianBlur : https://www.tutorialspoint.com/opencv/opencv_gaussian_blur.htm
-cv2.findContours : https://docs.opencv.org/4.x/d4/d73/tutorial_py_contours_begin.html
+cv2.threshold    : https://www.geeksforgeeks.org/find-and-draw-contours-using-opencv-python/#:~:text=We%20see%20that%20there%20are,the%20contours%20in%20the%20image. <br/>
+cv2.GaussianBlur : https://www.tutorialspoint.com/opencv/opencv_gaussian_blur.htm<br/>
+cv2.findContours : https://docs.opencv.org/4.x/d4/d73/tutorial_py_contours_begin.html<br/>
 
 
 Iam open for consctructive ideas, suggestions, and critism.
